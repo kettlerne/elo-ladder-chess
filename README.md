@@ -1,6 +1,5 @@
-# XenServer Chess Ladder [![Build Status](https://travis-ci.org/robhoes/elo-ladder-chess.png)](https://travis-ci.org/robhoes/elo-ladder-chess)
-
+# XenServer Chess Ladder
 _An Elo-rating based chess ladder competition_
 
-Players and games files for the elo-ladder (http://github.com/robhoes/elo-ladder).
+Players and games files for the elo-ladder (http://github.com/kettlerne/elo-ladder).
 
